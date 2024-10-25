@@ -5,7 +5,7 @@
 
 # dotenv files
 .env
-
+.appsettings.Development.json
 # User-specific files
 *.rsuser
 *.suo
@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+api/appsettings.Development.json
+api/appsettings.Development.json
+api/appsettings.Development.json
